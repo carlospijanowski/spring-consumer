@@ -19,4 +19,5 @@ public class RabbitMQConsumer implements AmqpConsumer<Message> {
         consumerService.acaoObrigatoriaDeQuandoRealizarOConsumer(message);
     }
 
+
 }
